@@ -1,0 +1,14 @@
+/Users/nosirbekxakimov/Library/Mobile Documents/com~apple~CloudDocs/munisa_a7/CalculatR/bin/Debug/net9.0/CalculatR
+/Users/nosirbekxakimov/Library/Mobile Documents/com~apple~CloudDocs/munisa_a7/CalculatR/bin/Debug/net9.0/CalculatR.deps.json
+/Users/nosirbekxakimov/Library/Mobile Documents/com~apple~CloudDocs/munisa_a7/CalculatR/bin/Debug/net9.0/CalculatR.runtimeconfig.json
+/Users/nosirbekxakimov/Library/Mobile Documents/com~apple~CloudDocs/munisa_a7/CalculatR/bin/Debug/net9.0/CalculatR.dll
+/Users/nosirbekxakimov/Library/Mobile Documents/com~apple~CloudDocs/munisa_a7/CalculatR/bin/Debug/net9.0/CalculatR.pdb
+/Users/nosirbekxakimov/Library/Mobile Documents/com~apple~CloudDocs/munisa_a7/CalculatR/obj/Debug/net9.0/CalculatR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nosirbekxakimov/Library/Mobile Documents/com~apple~CloudDocs/munisa_a7/CalculatR/obj/Debug/net9.0/CalculatR.AssemblyInfoInputs.cache
+/Users/nosirbekxakimov/Library/Mobile Documents/com~apple~CloudDocs/munisa_a7/CalculatR/obj/Debug/net9.0/CalculatR.AssemblyInfo.cs
+/Users/nosirbekxakimov/Library/Mobile Documents/com~apple~CloudDocs/munisa_a7/CalculatR/obj/Debug/net9.0/CalculatR.csproj.CoreCompileInputs.cache
+/Users/nosirbekxakimov/Library/Mobile Documents/com~apple~CloudDocs/munisa_a7/CalculatR/obj/Debug/net9.0/CalculatR.dll
+/Users/nosirbekxakimov/Library/Mobile Documents/com~apple~CloudDocs/munisa_a7/CalculatR/obj/Debug/net9.0/refint/CalculatR.dll
+/Users/nosirbekxakimov/Library/Mobile Documents/com~apple~CloudDocs/munisa_a7/CalculatR/obj/Debug/net9.0/CalculatR.pdb
+/Users/nosirbekxakimov/Library/Mobile Documents/com~apple~CloudDocs/munisa_a7/CalculatR/obj/Debug/net9.0/CalculatR.genruntimeconfig.cache
+/Users/nosirbekxakimov/Library/Mobile Documents/com~apple~CloudDocs/munisa_a7/CalculatR/obj/Debug/net9.0/ref/CalculatR.dll
